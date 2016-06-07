@@ -11,8 +11,8 @@ class Shopware_Plugins_Frontend_alternativeLieferadresseEntfernen_Bootstrap exte
         'label' => $this->getLabel(),
         'supplier' => 'edib-isic',
         'description' => '
-
-Das Plugin Shopware AutoInvoice automatisiert die Rechnungsstellung nach Bestelleingang vollständig. Über die Einstellungen können Sie konfigurieren, unter welchen Bedingungen eine Rechnung an den Kunden und ein Lieferschein z.B. an die Buchhaltung oder den Shopbetreiber gesandt werden sollen.
+<img src=""> </img>
+Das Plugin Shopware lieferadresse Entfernen Plugin ist  automatisiert die Rechnungsstellung nach Bestelleingang vollständig. Über die Einstellungen können Sie konfigurieren, unter welchen Bedingungen eine Rechnung an den Kunden und ein Lieferschein z.B. an die Buchhaltung oder den Shopbetreiber gesandt werden sollen.
 Gestalten Sie Ihre professionellen Rechnungen direkt im Shopware-Backend. Das Plugin versendet diese dann im PDF-Format mit allen wichtigen Bestellangaben an den Kunden. 
 Vollständiger Funktionsumfang:
 Erzeugung von Rechnung und Lieferschein im PDF-Format
@@ -48,13 +48,13 @@ Bei Fragen, Problem oder Anregungen, sowie Anfragen zur Individualisierung des P
 
         ',
         'support' => 'Edib Isic',
-        'link' => 'http://www.1alpha-it.de'
+        'link' => 'http://1alpha-it.de'
     );
 } 
 
     public function getVersion()
     {
-        return '1.0.0';
+        return '2.0.0';
     }
 
     public function getLabel()
