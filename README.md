@@ -22,4 +22,6 @@ Die Usability Ihrer Seite steigt um ein vielfaches, da Ihre Besucher nicht mehr 
 # Direkter Support zum Entwickler!
 Haben Sie Fragen? Kein Problem! Diese können Sie gerne per E-Mail oder auch telefonisch stellen. Wir helfen Ihnen gern.
 
-info@1alpha-it.de  0174 / 403 7672 Support
+info@1alpha-it.de  
+"http://1alpha-it.de/":1 Alpha IT München Consulting
+0174 / 403 7672 Support
